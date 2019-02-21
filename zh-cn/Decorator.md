@@ -1,4 +1,8 @@
-# Decorator `ES6`
+# Decorator 装饰器 `ES6`
+
+参考：
+
+- [修饰器 - ECMAScript 6 入门 - 阮一峰](http://es6.ruanyifeng.com/#docs/decorator)
 
 - 只能用来修饰对象和对象的方法
   - 修饰对象的方法类似 Object.defineProperty()

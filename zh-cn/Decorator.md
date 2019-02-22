@@ -1,4 +1,4 @@
-# Decorator 装饰器 `ES6`
+# Decorator 修饰器 `ES6`
 
 参考：
 

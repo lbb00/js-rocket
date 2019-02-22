@@ -2,18 +2,16 @@
   - [数据类型](/zh-cn/Types.md)
   - [ES6 新增数据类型](/zh-cn/ES6新增数据类型.md)
   - [== 和 ===](/zh-cn/Equality.md)
-- 对象
-  - [继承和原型链](/zh-cn/继承和原型链.md)
-- 函数
-  - 
 - 变量
   - [定义变量](/zh-cn/定义变量.md)
   - [作用域](/zh-cn/作用域.md)
   - [变量提升](/zh-cn/Hoisting.md)
+- 对象
+  - [继承和原型链](/zh-cn/继承和原型链.md)
 - 循环
   - [for 系列](/zh-cn/for.md)
   - [Iterator 迭代器](/zh-cn/Iterator.md)
-- 模式
+- 高阶
   - [Decorator](/zh-cn/Decorator.md)
   - [Genrator]()
 - 异步编程
@@ -21,6 +19,6 @@
   - [AsyncAwait](/zh-cn/AsyncAwait.md)
 - 运算符
   - [SpreadOperator](/zh-cn/SpreadOperator.md)
-- 进阶
+- 进一步了解
   - [EventLoop](/zh-cn/EventLoop.md)
   - [垃圾回收](/zh-cn/垃圾回收.md)

@@ -2,7 +2,7 @@
 
 用法: `...ObjectImplementsSymbolIterator`
 
-调用的是遍历接口（Symbol.iterator)，如果对象没有这个接口，将无法转换。
+调用的是遍历接口（Symbol.iterator)，如果对象没有这个接口，将无法展开。
 
 ```javascript
 // array

@@ -13,7 +13,7 @@
 - Node 中的 JS 部分特性
 - 一些面试点
 
-## 参考
+## 参考汇总
 
 - [MDN](https://developer.mozilla.org)
 - [ecmascript 6 入门 - 阮一峰](https://es6.ruanyifeng.com)

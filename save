@@ -1,6 +1,6 @@
 #!/bin/sh
 
-time=$(date +%Y-%m-%d\ %H:%M:%S)
+time=$(date +%Y-%m-%d\ %H:%M)
 
 git add -A
 git commit -m "save: ${time}"
